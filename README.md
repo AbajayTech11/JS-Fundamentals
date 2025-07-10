@@ -1,2 +1,2 @@
 #javascript is amaizing 
-**Foundational concepts in Javascript**
+Foundational concepts in Javascript
