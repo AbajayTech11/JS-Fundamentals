@@ -1,2 +1,2 @@
 #javascript is amaizing 
-A breif print statement.
+Foundational concepts in Javascript
